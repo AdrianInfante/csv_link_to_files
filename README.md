@@ -1,4 +1,5 @@
-Extract and Download URLs from CSV
+# Extract and Download URLs from CSV
+
 This project provides a Python script that reads a CSV file containing URLs and downloads the files from these URLs to a specified local directory. The script is designed to handle different file formats, such as .msi, .zip, .pdf, and .rtf.
 
 Table of Contents
